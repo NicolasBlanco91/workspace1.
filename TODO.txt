@@ -1,3 +1,7 @@
 "Crear verso 1"
 "Crear verso 2"
+<<<<<<< HEAD
 "Crear verso 3"
+=======
+"Crear verso 3"
+>>>>>>> c2610a91503d9323c4af5bc33083e6902dced121
